@@ -1,0 +1,2 @@
+# skills_template
+ClaudeおよびcodexのSKILLSのジェネレーターを格納したプロジェクトです。Claude CodeやCodexを起動して作ってほしいものを入力するとスキルが自動で生成されます。
